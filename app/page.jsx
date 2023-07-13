@@ -26,7 +26,7 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="p-5">
+      <section className="p-5" id="team">
         <Team />
       </section>
 

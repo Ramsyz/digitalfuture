@@ -1,6 +1,6 @@
 "use client";
 import { useState } from "react";
-import { BsCode, BsCodeSquare } from "react-icons/bs";
+// import { BsCode, BsCodeSquare } from "react-icons/bs";
 import { FaCode } from "react-icons/fa";
 import { HiMenuAlt3 } from "react-icons/hi";
 import { AiOutlineClose } from "react-icons/ai";

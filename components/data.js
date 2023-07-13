@@ -134,7 +134,7 @@ export const reviews = [
     id: 1,
     name: "John Smith",
     rating: 5,
-    image: "/asante.png",
+    image: "/sam.png",
     review:
       "KodeCraft Solutions delivered an exceptional custom software solution that perfectly met our business needs. Their team was highly professional, efficient, and responsive throughout the entire development process. We are extremely satisfied with the results and would highly recommend their services.",
   },
@@ -150,7 +150,7 @@ export const reviews = [
     id: 3,
     name: "David Thompson",
     rating: 4,
-    image: "/tim.jpg",
+    image: "/tim.png",
     review:
       "KodeCraft Solutions created a stunning website for our business. Their web development services are top-notch, and they successfully brought our vision to life. The team ensured a smooth user experience and incorporated all the features we requested. We are delighted with their work and would gladly collaborate with them again.",
   },
@@ -166,7 +166,7 @@ export const reviews = [
     id: 5,
     name: "Alex Turner",
     rating: 4.5,
-    image: "/asante1.png",
+    image: "/tim.png",
     review:
       "The UI/UX design services provided by KodeCraft Solutions were outstanding. They truly understood our brand identity and crafted visually stunning interfaces that are both aesthetically pleasing and intuitive. Our customers love the new look, and we've seen increased engagement as a result. Thank you, KodeCraft!",
   },
