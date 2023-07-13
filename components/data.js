@@ -90,14 +90,14 @@ export const teamMembers = [
     name: "Jonathan Brown",
     title: "CEO/Founder",
     email: "jbrown@dayrep.com",
-    image: "/asante.png",
+    image: "/sam.png",
   },
   {
     id: "02",
     name: "Francisco N. Wolfe",
     title: "Senior Software Engineer",
     email: "FranciscoNWolfe@dayrep.com",
-    image: "/tim.jpg",
+    image: "/tim.png",
   },
   {
     id: "03",
@@ -125,7 +125,7 @@ export const teamMembers = [
     name: "Fred K. Santiago",
     title: "QA Engineer",
     email: "FredKSantiago@dayrep.com",
-    image: "/asante1.png",
+    image: "/sam.png",
   },
 ];
 

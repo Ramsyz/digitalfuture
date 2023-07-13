@@ -21,7 +21,7 @@ export default function Home() {
       </div>
 
       <section className="" id="services">
-        <div className="bg-[#003060]">
+        <div className="bg-gray-100">
           <Services />
         </div>
       </section>
